@@ -1,5 +1,10 @@
 body {
   text-align: center;
+  background-color: whitesmoke;
+}
+
+img {
+  border-radius: 25px;
 }
 
 .container {
